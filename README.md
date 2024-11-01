@@ -1,2 +1,10 @@
-# demo
- Materials from Ian's data wrangling workshop
+# Materials from data wrangling course
+
+## Author
+
+Ian Hussey with additions by [course attendee name]
+
+## License
+
+MIT License
+
